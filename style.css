@@ -30,8 +30,13 @@ img {
                 background-color: #333;
                 color: #fff;
                 }
-                CSS in
-                External
-                File
-                
+                footer a {
+                    color: #fff;
+                    margin: 0 10px;
+                    text-decoration: none;
+                    font-size: 20px;
+                    }
+                    footer a:hover {
+                    color: #f39c12; /* Change color on hover */
+                    }
                     
